@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu  xmlns:android="http://schemas.android.com/apk/res/android" >
+
+
+    <item android:id="@+id/defaultView"
+        android:title="@string/defaultt"
+        >
+    </item>
+
+
+    <item android:id="@+id/LargeView"
+        android:title="@string/large">
+    </item>
+
+    <item android:id="@+id/SmallView"
+        android:title="@string/small">
+    </item>
+
+    <item android:id="@+id/listView"
+        android:title="@string/list">
+    </item>
+</menu>
